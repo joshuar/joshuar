@@ -16,4 +16,14 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          base: header
+          plugin_isocalendar: yes
+          plugin_languages: yes
+          config_order: base.header, isocalendar, languages
           token: ${{ secrets.METRICS_TOKEN }}
+          config_timezone: Australia/Brisbane
+          retries: 3
+          retries_delay: 300
+          retries_output_action: 5
+          retries_delay_output_action: 120
+          
