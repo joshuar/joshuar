@@ -31,9 +31,9 @@
 ╔══════════════════════════════════════════════════════╗
 ║  BOOT SEQUENCE INITIATED...                          ║
 ║  > Loading user profile: joshuar ................OK  ║
-║  > Mounting Go runtime .......................... OK  ║
-║  > Connecting to Home Assistant ................. OK  ║
-║  > Syncing with Brisbane, AU .................... OK  ║
+║  > Mounting Go runtime .......................... OK ║
+║  > Connecting to Home Assistant ................. OK ║
+║  > Syncing with Brisbane, AU .................... OK ║
 ║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 100%            ║
 ╚══════════════════════════════════════════════════════╝
 ```
